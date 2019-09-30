@@ -12,4 +12,4 @@
 
 ## 项目总体架构            
 
-![1569812383873](C:\Users\shuyuz\AppData\Roaming\Typora\typora-user-images\1569812383873.png)
+![1569812383873](https://github.com/Zhangshuyu4653/Demo_project/blob/master/AWS_aes/image/%E5%9B%BE2.PNG)
