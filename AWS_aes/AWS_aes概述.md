@@ -8,7 +8,7 @@
 
 对应解密模块是将数据在AWS云上下载到接收者的ESP32上，在通过QSPI传输到FPGA进行解密，最后将揭解密据通过IO口输出出来。
 
-![1569812381184](C:\Users\shuyuz\AppData\Roaming\Typora\typora-user-images\1569812381184.png)
+![1569812381184](https://github.com/Zhangshuyu4653/Demo_project/blob/master/AWS_aes/image/%E5%9B%BE%E4%B8%80.PNG)
 
 ## 项目总体架构            
 
